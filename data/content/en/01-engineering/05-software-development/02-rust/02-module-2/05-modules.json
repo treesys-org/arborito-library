@@ -1,0 +1,1 @@
+{"content": "# Modules, crates, pub\n\n`pub(crate)` limits visibility to the crate.\n\n@quiz: Visibility limited to current crate?\n@option: pub\n@correct: pub(crate)\n@option: private"}

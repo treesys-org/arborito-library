@@ -1,0 +1,1 @@
+{"content": "# Functions: fn, expressions, divergence\n\nLast expression without `;` returns. `-> !` is diverging.\n\n@quiz: What does `;` do at end of function body with non-unit return type?\n@option: Nothing\n@correct: Turns expression into statement; often a type error\n@option: Optimizes binary"}

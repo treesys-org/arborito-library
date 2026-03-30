@@ -1,0 +1,1 @@
+{"content": "# Lifetimes: 'a y reglas elisión\n\nLas **lifetimes** aseguran que referencias no sobrevivan a sus datos. Elisión cubre casos comunes.\n\n@quiz: ¿Qué problema resuelven las anotaciones de lifetime?\n@option: Velocidad de heap\n@correct: Garantizar que referencias no queden colgantes\n@option: Cifrado"}

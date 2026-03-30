@@ -1,0 +1,1 @@
+{"content": "# Ownership rules\n\nEach value has one owner; dropping calls **Drop**. **Move** invalidates the source unless `Copy`.\n\n@quiz: What happens assigning String without clone?\n@option: Auto deep copy\n@correct: Move; original invalidated\n@option: Nightly only"}

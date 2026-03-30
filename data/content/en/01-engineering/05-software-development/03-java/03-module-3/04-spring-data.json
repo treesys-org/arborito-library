@@ -1,0 +1,1 @@
+{"content": "# Spring Data JPA repositories\n\nExtend `JpaRepository<Entity, Id>` for CRUD + query derivation.\n\nKeep `@Transactional` boundaries around domain operations; watch **N+1** fetch issues.\n@quiz: Which Spring Data interface commonly backs JPA repositories?\n@option: CrudRepository only\n@correct: JpaRepository\n@option: Raw EntityManager"}

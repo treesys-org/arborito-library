@@ -1,0 +1,1 @@
+{"content": "# Pattern matching: match, if let\n\n`match` must be exhaustive.\n\n@quiz: Non-exhaustive match is…\n@option: Warning only\n@correct: Compile error\n@option: Always panic"}

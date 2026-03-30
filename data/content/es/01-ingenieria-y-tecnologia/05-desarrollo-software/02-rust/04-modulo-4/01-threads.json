@@ -1,0 +1,1 @@
+{"content": "# Threads: std::thread y Send/Sync\n\n`thread::spawn` requiere `'static` por seguridad. **mpsc** para canales.\n\n@quiz: ¿Qué bound requiere spawn sobre el closure?\n@option: Copy\n@correct: 'static (sin referencias a stack no static)\n@option: Debug"}

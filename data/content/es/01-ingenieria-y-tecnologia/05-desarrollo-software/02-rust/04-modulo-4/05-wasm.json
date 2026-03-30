@@ -1,0 +1,1 @@
+{"content": "# Rust a WebAssembly\n\nCompila a wasm32-unknown-unknown; **wasm-bindgen** genera interfaz JS/TS.\n\n@quiz: ¿Cuál es un target común para WASM en Rust?\n@option: x86_64-pc-windows\n@correct: wasm32-unknown-unknown\n@option: armv7-linux"}

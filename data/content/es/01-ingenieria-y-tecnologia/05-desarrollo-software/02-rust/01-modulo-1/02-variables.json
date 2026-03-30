@@ -1,0 +1,1 @@
+{"content": "# Variables: let, mut y shadowing\n\n`let x = 5;` es inmutable; `let mut y = 0;` permite asignación. **Shadowing** redeclara nombre con nuevo tipo posible. Tipos inferidos salvo anotaciones necesarias.\n\n@quiz: ¿Cómo se marca una variable mutable?\n@option: volatile\n@correct: let mut\n@option: mut let"}

@@ -1,0 +1,1 @@
+{"content": "# Structs and enums\n\nEnums can carry data per variant. **Option**/`Result` replace null/exceptions.\n\n@quiz: Which models absence?\n@option: Result\n@correct: Option\n@option: Either"}

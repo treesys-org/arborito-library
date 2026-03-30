@@ -1,0 +1,1 @@
+{"content": "# Lifetimes: 'a\n\nLifetimes prevent dangling references.\n\n@quiz: Lifetimes prevent…\n@option: Heap speed issues\n@correct: Dangling references\n@option: Encryption"}

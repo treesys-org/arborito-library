@@ -1,0 +1,1 @@
+{"content": "# Threads: std::thread\n\n`thread::spawn` requires `'static`.\n\n@quiz: spawn closure bound?\n@option: Copy\n@correct: 'static\n@option: Debug"}

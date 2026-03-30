@@ -1,0 +1,1 @@
+{"content": "# Variables: let, mut, shadowing\n\n`let` is immutable; `let mut` allows mutation. **Shadowing** can change types.\n\n@quiz: How do you mark a variable mutable?\n@option: volatile\n@correct: let mut\n@option: mut let"}

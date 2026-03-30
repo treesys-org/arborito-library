@@ -1,0 +1,1 @@
+{"content": "# Ownership: reglas únicas\n\nCada valor tiene un único dueño; al salir de alcance se llama **drop**. **Move** transfiere ownership. Tipos `Copy` se copian bit a bit.\n\n@quiz: ¿Qué ocurre al asignar un String a otra variable sin clonar?\n@option: Se copia automáticamente\n@correct: Move: el original queda invalidado\n@option: Se compila solo en nightly"}

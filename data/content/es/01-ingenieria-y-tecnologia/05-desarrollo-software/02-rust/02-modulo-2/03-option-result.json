@@ -1,0 +1,1 @@
+{"content": "# Option y Result: flujo sin excepciones\n\nEl operador **`?`** propaga errores en funciones que retornan `Result`. Evita `unwrap` en producción.\n\n@quiz: ¿Qué hace el operador ? en Result?\n@option: Ignora errores\n@correct: Devuelve temprano el Err al caller\n@option: Convierte a panic"}

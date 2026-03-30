@@ -1,0 +1,1 @@
+{"content": "# Generic algorithms\n\n**std::sort** is O(n log n). **lower_bound** requires a **sorted** range. **ranges** enable lazy pipeline composition.\n\n@quiz: What precondition does lower_bound require?\n@option: Empty range\n@correct: Sorted order according to the comparator\n@option: Unique elements"}

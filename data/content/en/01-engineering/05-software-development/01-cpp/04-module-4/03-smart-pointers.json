@@ -1,0 +1,1 @@
+{"content": "# Smart pointers\n\n**unique_ptr** exclusive ownership; **shared_ptr** refcounted; **weak_ptr** breaks cycles. Custom **deleters** for `FILE*`/`close`.\n\n@quiz: Which smart pointer helps break shared_ptr cycles?\n@option: unique_ptr\n@correct: weak_ptr\n@option: auto_ptr"}

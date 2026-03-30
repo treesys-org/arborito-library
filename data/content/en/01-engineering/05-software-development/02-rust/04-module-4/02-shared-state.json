@@ -1,0 +1,1 @@
+{"content": "# Mutex and RwLock\n\nMutex can become **poisoned** after panic while locked.\n\n@quiz: Poisoned mutex?\n@option: Ignored\n@correct: PoisonError on lock\n@option: OS restart"}

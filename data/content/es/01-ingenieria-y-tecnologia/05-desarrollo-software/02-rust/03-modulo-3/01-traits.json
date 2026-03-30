@@ -1,0 +1,1 @@
+{"content": "# Traits: interfaces ad hoc\n\nLos **traits** definen comportamiento compartido. **Trait objects** `dyn Trait` usan vtable dinámica.\n\n@quiz: ¿Qué sintaxis indica objeto dinámico de trait?\n@option: static Trait\n@correct: dyn Trait\n@option: Trait@"}

@@ -1,0 +1,1 @@
+{"content": "# Move semantics (C++11+)\n\nDistinguish lvalues/rvalues; use **`std::move`** to enable move overloads; **`std::forward`** in templates. **Move constructors** transfer internal resources.\n\n@quiz: What does std::move actually do?\n@option: Deep copy\n@correct: Casts to an xvalue to select move overloads\n@option: Frees memory"}

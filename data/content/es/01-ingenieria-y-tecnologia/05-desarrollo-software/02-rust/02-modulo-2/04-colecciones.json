@@ -1,0 +1,1 @@
+{"content": "# Vec, HashMap, iteradores\n\n**Vec** almacena contiguo; **HashMap** hashing. **`.entry()`** evita lookups duplicados.\n\n@quiz: ¿Qué API permite insertar o actualizar eficientemente en HashMap?\n@option: push\n@correct: entry\n@option: append"}

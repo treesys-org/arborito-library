@@ -1,0 +1,1 @@
+{"content": "# Storage duration\n\nAutomatic locals live on the **stack** until the block ends. Dynamic allocation lives until freed. **Static** and **thread_local** have extended lifetime.\n\n@quiz: Where do typical function-local `int x` variables live?\n@option: Heap\n@correct: The function’s stack frame\n@option: .bss always"}

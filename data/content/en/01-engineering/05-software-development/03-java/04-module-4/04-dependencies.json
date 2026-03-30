@@ -1,0 +1,1 @@
+{"content": "# Maven/Gradle dependencies\n\nMaven **POMs** coordinate dependencies via GAV coordinates. Use **BOMs** / `dependencyManagement` to align versions and avoid classpath conflicts.\n@quiz: Which file declares a Maven project’s dependencies?\n@option: build.gradle.kts always\n@correct: pom.xml\n@option: package.json"}

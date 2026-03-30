@@ -1,0 +1,1 @@
+{"content": "# Rust to WebAssembly\n\nTarget `wasm32-unknown-unknown`.\n\n@quiz: Common WASM target triple?\n@option: x86_64-pc-windows\n@correct: wasm32-unknown-unknown\n@option: armv7-linux"}

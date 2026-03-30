@@ -1,0 +1,1 @@
+{"content": "# Generics and bounds\n\nMonomorphization duplicates code per type.\n\n@quiz: Monomorphization impact?\n@option: Always shrinks binary\n@correct: Can increase code size\n@option: Runtime only"}

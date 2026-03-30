@@ -1,0 +1,1 @@
+{"content": "# Traits: shared behavior\n\n`dyn Trait` uses dynamic dispatch.\n\n@quiz: Dynamic trait object syntax?\n@option: static Trait\n@correct: dyn Trait\n@option: Trait@"}

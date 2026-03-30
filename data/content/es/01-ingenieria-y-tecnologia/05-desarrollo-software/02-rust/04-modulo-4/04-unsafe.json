@@ -1,0 +1,1 @@
+{"content": "# Unsafe: raw pointers y FFI\n\n`unsafe` permite desreferenciar punteros crudos y llamar FFI; **tú** garantizas invariantes.\n\n@quiz: ¿Qué bloque permite llamar funciones extern C?\n@option: extern only\n@correct: unsafe\n@option: raw"}

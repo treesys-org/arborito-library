@@ -1,0 +1,1 @@
+{"content": "# Mutex y RwLock en Rust\n\n`Mutex::lock` puede **poison** si un hilo panicó sosteniendo el lock.\n\n@quiz: ¿Qué indica unwrap() en Mutex tras poison?\n@option: Ignora\n@correct: error PoisonError\n@option: Reinicia OS"}

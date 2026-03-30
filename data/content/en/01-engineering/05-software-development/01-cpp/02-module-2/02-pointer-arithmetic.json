@@ -1,0 +1,1 @@
+{"content": "# Pointer arithmetic\n\nFor type `T`, `p+1` advances by `sizeof(T)` bytes. `a[i]` is `*(a+i)`. Out-of-range access is **UB**.\n\n@quiz: What happens when dereferencing past the end of an array?\n@option: std::out_of_range\n@correct: Undefined behavior\n@option: Returns 0"}

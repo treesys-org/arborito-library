@@ -1,0 +1,1 @@
+{"content": "# Box, Rc, Arc, RefCell\n\n**Arc** is thread-safe shared ownership.\n\n@quiz: Thread-safe shared pointer?\n@option: Rc\n@correct: Arc\n@option: Box"}

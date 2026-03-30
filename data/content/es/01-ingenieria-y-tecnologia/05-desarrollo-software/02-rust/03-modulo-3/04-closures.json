@@ -1,0 +1,1 @@
+{"content": "# Closures: Fn, FnMut, FnOnce\n\n**FnOnce** consume captura; **FnMut** muta; **Fn** inmutable. `move` fuerza ownership.\n\n@quiz: ¿Qué trait representa una closure consumible una vez?\n@option: Fn\n@correct: FnOnce\n@option: FnMut"}

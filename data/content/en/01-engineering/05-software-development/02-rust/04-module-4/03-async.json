@@ -1,0 +1,1 @@
+{"content": "# Async Rust: await\n\nFutures are lazy; need an executor.\n\n@quiz: Keyword to suspend async fn?\n@option: yield\n@correct: await\n@option: suspend"}

@@ -1,0 +1,1 @@
+{"content": "# Microservices trade-offs\n\nIndependent deployment trades for **network faults**, **distributed consistency**, and **higher operational load** (tracing, SLOs per service).\n@quiz: What typically rises when splitting a monolith into many services?\n@option: Zero latency\n@correct: Operational complexity and network failures\n@option: HTTP becomes impossible"}

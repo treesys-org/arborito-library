@@ -1,0 +1,1 @@
+{"content": "# Option and Result\n\n**`?`** propagates `Result` in compatible functions.\n\n@quiz: What does `?` do on `Result`?\n@option: Ignores errors\n@correct: Early-return `Err` to caller\n@option: Always panic"}

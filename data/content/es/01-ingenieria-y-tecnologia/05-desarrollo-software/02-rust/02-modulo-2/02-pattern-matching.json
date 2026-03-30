@@ -1,0 +1,1 @@
+{"content": "# Pattern matching: match y if let\n\n`match` debe ser exhaustivo. `if let` para un solo caso. **Guards** con `if`.\n\n@quiz: ¿Qué error si match no cubre todas las variantes?\n@option: Warning solo\n@correct: Error de compilación (no exhaustivo)\n@option: Runtime panic siempre"}

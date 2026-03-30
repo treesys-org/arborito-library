@@ -1,0 +1,1 @@
+{"content": "# Box, Rc, Arc, RefCell\n\n**Rc** comparte en single-thread; **Arc** atómico. **RefCell** permite mutación en runtime con reglas.\n\n@quiz: ¿Qué smart pointer es thread-safe para compartir?\n@option: Rc\n@correct: Arc\n@option: Box"}

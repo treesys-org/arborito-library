@@ -1,0 +1,1 @@
+{"content": "# Vec, HashMap, iterators\n\nUse `.entry()` to avoid duplicate lookups.\n\n@quiz: Efficient insert/update API?\n@option: push\n@correct: entry\n@option: append"}

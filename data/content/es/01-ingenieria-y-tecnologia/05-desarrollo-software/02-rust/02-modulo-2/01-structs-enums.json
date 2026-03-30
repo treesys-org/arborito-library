@@ -1,0 +1,1 @@
+{"content": "# Structs y enums con datos\n\n`enum` puede llevar datos por variante. **Option<T>** y **Result<T,E>** modelan nulidad y errores sin excepciones.\n\n@quiz: ¿Qué enum representa ausencia de valor?\n@option: Result\n@correct: Option\n@option: Either"}

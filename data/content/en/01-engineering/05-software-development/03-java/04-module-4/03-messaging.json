@@ -1,0 +1,1 @@
+{"content": "# Messaging and Kafka basics\n\nPartitioned logs with **offsets** enable scalable consumption. **At-least-once** delivery may duplicate messages—make consumers **idempotent**.\n@quiz: Which delivery guarantee often implies retries and duplicates?\n@option: Exactly-once for free\n@correct: At-least-once\n@option: UDP broadcast only"}

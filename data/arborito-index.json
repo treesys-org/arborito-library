@@ -1,0 +1,18 @@
+{
+  "rolling": {
+    "id": "latest-1774911365",
+    "name": "Arborito Library (Rolling)",
+    "description": "Latest unstable version. Updates continuously.",
+    "url": "./data.json",
+    "year": "Rolling"
+  },
+  "releases": [
+    {
+      "id": "release-2025",
+      "name": "Arborito Library (2025)",
+      "description": "Archived snapshot from 2025.",
+      "url": "./releases/2025.json",
+      "year": "2025"
+    }
+  ]
+}

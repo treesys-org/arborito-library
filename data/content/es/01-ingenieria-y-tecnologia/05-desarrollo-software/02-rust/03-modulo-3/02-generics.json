@@ -1,0 +1,1 @@
+{"content": "# Genéricos: parámetros de tipo\n\nLos bounds restringen tipos. **Monomorphización** genera código por instancia.\n\n@quiz: ¿Qué implica monomorphización para el tamaño del binario?\n@option: Siempre lo reduce\n@correct: Puede aumentar código duplicado por tipo\n@option: Solo afecta runtime"}

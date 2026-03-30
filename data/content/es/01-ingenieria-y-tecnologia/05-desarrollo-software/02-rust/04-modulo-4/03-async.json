@@ -1,0 +1,1 @@
+{"content": "# Async Rust: await y executors\n\nLas **futures** son perezosas; requieren **executor** (tokio/async-std). **async fn** retorna impl Future.\n\n@quiz: ¿Qué palabra clave pausa una async function hasta completar otra Future?\n@option: yield\n@correct: await\n@option: suspend"}

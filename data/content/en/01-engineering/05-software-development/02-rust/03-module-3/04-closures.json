@@ -1,0 +1,1 @@
+{"content": "# Closures: Fn, FnMut, FnOnce\n\n`move` forces ownership into closure.\n\n@quiz: Consumable once closure trait?\n@option: Fn\n@correct: FnOnce\n@option: FnMut"}

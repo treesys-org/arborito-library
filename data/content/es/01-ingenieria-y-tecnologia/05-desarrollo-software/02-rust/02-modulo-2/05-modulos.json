@@ -1,0 +1,1 @@
+{"content": "# Módulos, crates y pub\n\n`mod` organiza archivos; `use` importa rutas. **Workspaces** agrupan crates relacionados.\n\n@quiz: ¿Qué visibilidad limita un símbolo al crate actual?\n@option: pub\n@correct: pub(crate)\n@option: private"}

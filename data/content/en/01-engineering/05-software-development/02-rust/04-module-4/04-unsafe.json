@@ -1,0 +1,1 @@
+{"content": "# Unsafe Rust and FFI\n\n`unsafe` for invariants you must prove.\n\n@quiz: Calls to extern C typically require?\n@option: extern only\n@correct: unsafe\n@option: raw"}

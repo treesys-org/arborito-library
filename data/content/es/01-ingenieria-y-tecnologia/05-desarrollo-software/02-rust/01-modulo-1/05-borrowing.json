@@ -1,0 +1,1 @@
+{"content": "# Referencias y préstamos: & y &mut\n\nPuedes tener muchas referencias `&T` o una `&mut T` exclusiva. El **borrow checker** evita data races en compile time.\n\n@quiz: ¿Cuántas referencias mutables activas a la vez a un mismo valor?\n@option: Ilimitadas\n@correct: Una\n@option: Dos si son de solo lectura"}
