@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Database Design",
+  "icon": "💾",
+  "description": "SQL, NoSQL, transactions, and caching.",
+  "order": "1",
+  "uuid": "35312216-6bb5-48f8-af14-afd482afbf15"
+}

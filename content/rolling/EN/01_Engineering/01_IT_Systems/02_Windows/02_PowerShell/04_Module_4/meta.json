@@ -1,0 +1,7 @@
+{
+  "name": "Module 4: Infrastructure as Code (DSC)",
+  "icon": "🏗️",
+  "description": "Desired State Configuration for declarative management.",
+  "order": "4",
+  "uuid": "48a625bd-708a-4b2f-b934-7948de5a5d66"
+}

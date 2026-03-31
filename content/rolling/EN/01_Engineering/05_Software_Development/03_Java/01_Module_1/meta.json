@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Java Core",
+  "icon": "☕",
+  "description": "Fundamentals of the language, the JVM, and Object-Oriented Programming.",
+  "order": "1",
+  "uuid": "66d246a1-ce1c-4d57-bff1-81085436f2ea"
+}

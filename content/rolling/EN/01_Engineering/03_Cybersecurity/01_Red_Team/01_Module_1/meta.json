@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Reconnaissance and Enumeration",
+  "icon": "📡",
+  "description": "The information gathering phase before an attack.",
+  "order": "1",
+  "uuid": "b6c523c0-6c8e-4dd1-b078-dad25b566309"
+}

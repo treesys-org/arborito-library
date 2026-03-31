@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 2: Scheduling y Ciclo de Vida",
+  "icon": "🔄",
+  "description": "Taints, tolerations, init containers y patrones avanzados.",
+  "order": "2",
+  "uuid": "e032ad5c-66c5-43f6-a9cf-e6b16176e98a"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Mantenimiento de Cluster",
+  "icon": "🔧",
+  "description": "Actualizaciones, backups de ETCD y alta disponibilidad.",
+  "order": "1",
+  "uuid": "29707476-f7c3-4e0e-84a0-289209d8097a"
+}

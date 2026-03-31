@@ -1,0 +1,46 @@
+name: Arborito Library Builder
+
+on:
+  # Runs automatically every day at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows manual execution from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Builder Script
+        run: python builder_script.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check for CODEOWNERS.txt and rename it for GitHub to recognize it
+          if [ -f "CODEOWNERS.txt" ]; then
+            git mv CODEOWNERS.txt CODEOWNERS
+          fi
+          
+          # data/ está en .gitignore para pushes locales; el builder en CI fuerza el add
+          git add -f data/
+          
+          # Commit only if there are changes, otherwise exit gracefully
+          git commit -m "🤖 Update Arborito Library graph" || echo "No changes to commit"
+          
+          # Push changes back to the repository
+          git push

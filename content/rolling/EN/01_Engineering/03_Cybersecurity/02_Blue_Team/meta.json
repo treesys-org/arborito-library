@@ -1,0 +1,7 @@
+{
+  "name": "Defensive Operations (Blue Team)",
+  "icon": "🔵",
+  "description": "Defending systems, detecting intrusions, and responding to incidents.",
+  "order": "2",
+  "uuid": "ed0af775-be40-4d9b-af1c-f8e013483be7"
+}

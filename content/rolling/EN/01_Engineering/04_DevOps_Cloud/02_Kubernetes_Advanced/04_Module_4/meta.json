@@ -1,0 +1,7 @@
+{
+  "name": "Module 4: Extensibility",
+  "icon": "🧩",
+  "description": "CRDs, Operators, and how to extend the Kubernetes API.",
+  "order": "4",
+  "uuid": "9ecadd9a-dd62-4458-8964-856284649017"
+}

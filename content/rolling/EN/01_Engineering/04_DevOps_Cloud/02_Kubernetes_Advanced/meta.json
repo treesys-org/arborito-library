@@ -1,0 +1,7 @@
+{
+  "name": "Advanced Kubernetes Administration",
+  "icon": "🎓",
+  "description": "Advanced topics for cluster administration and maintenance.",
+  "order": "2",
+  "uuid": "454ddb5e-3e92-4870-bfc7-ca5635861ac3"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Orquestación con Kubernetes",
+  "icon": "☸️",
+  "description": "Orquestación de contenedores con Kubernetes.",
+  "order": "1",
+  "uuid": "de89c86a-9478-4532-b3a8-0788717bd722"
+}

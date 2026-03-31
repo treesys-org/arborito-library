@@ -1,0 +1,7 @@
+{
+  "name": "Advanced Linux SysAdmin",
+  "icon": "🛡️",
+  "description": "Systemd, Security, Corporate Networking, and Virtualization.",
+  "order": "2",
+  "uuid": "328d80f4-2ede-4dbd-a4a0-66d4191af1f5"
+}

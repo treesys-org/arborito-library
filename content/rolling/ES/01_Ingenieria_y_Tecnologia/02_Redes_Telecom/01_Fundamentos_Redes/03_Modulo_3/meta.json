@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Routing y WAN",
+  "icon": "🌐",
+  "description": "Enrutamiento estático, OSPF, FHRP y NAT.",
+  "order": "3",
+  "uuid": "305faa68-f421-4fed-9cb4-5a97b29693f2"
+}

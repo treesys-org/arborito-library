@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 2: Java Avanzado",
+  "icon": "🚀",
+  "description": "Collections, Generics, Streams, Lambdas y concurrencia.",
+  "order": "2",
+  "uuid": "d3a8598b-d9aa-4104-8608-69af83852ee5"
+}

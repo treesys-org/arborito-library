@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Abstracciones y Traits",
+  "icon": "🔗",
+  "description": "Traits, generics, lifetimes y smart pointers.",
+  "order": "3",
+  "uuid": "8899e751-d513-48a2-b68d-896c54220d36"
+}

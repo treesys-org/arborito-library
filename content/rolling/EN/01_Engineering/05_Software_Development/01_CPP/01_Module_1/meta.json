@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: C Fundamentals",
+  "icon": "📚",
+  "description": "Compilation, primitive types, control flow, and structs.",
+  "order": "1",
+  "uuid": "5fbbade5-bddd-4822-984c-355f5601e276"
+}

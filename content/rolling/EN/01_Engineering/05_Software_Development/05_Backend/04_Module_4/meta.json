@@ -1,0 +1,7 @@
+{
+  "name": "Module 4: Best Practices and Security",
+  "icon": "👍",
+  "description": "OWASP Top 10, rate limiting, logging, and testing.",
+  "order": "4",
+  "uuid": "fe6d74be-ce79-4f17-bffb-1ec2f22911e0"
+}

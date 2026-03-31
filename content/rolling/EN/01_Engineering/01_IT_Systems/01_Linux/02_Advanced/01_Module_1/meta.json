@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Advanced System Control",
+  "icon": "⚙️",
+  "description": "Systemd, kernel compilation, and professional disk management.",
+  "order": "1",
+  "uuid": "d4efceca-016e-46ae-827d-3cb27439692a"
+}

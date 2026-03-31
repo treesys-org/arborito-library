@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 2: Supervivencia en la Terminal (CLI)",
+  "icon": "📟",
+  "description": "Comandos esenciales para navegar y operar en la shell de Linux.",
+  "order": "2",
+  "uuid": "f48bb376-63a4-4cf9-97cd-670579dc9084"
+}

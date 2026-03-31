@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Cluster Maintenance",
+  "icon": "🔧",
+  "description": "Upgrades, ETCD backups, and high availability.",
+  "order": "1",
+  "uuid": "401da964-3bc2-4e74-b22b-e8f12199d5d8"
+}

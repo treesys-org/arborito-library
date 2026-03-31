@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Windows Network Services",
+  "icon": "🔌",
+  "description": "DNS, DHCP, and file and print services.",
+  "order": "3",
+  "uuid": "bd8cdd01-2b19-4cab-849e-eb2615820697"
+}

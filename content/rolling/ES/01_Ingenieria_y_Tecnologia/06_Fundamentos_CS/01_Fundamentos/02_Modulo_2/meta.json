@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 2: Arquitectura de Computadores",
+  "icon": "🖥️",
+  "description": "Puertas lógicas, sets de instrucciones, pipelining de CPU y jerarquía de memoria.",
+  "order": "2",
+  "uuid": "e4efd757-3dc8-43cf-a915-d06ffebe4e94"
+}

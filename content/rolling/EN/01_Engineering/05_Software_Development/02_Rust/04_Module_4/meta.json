@@ -1,0 +1,7 @@
+{
+  "name": "Module 4: Concurrency and Systems",
+  "icon": "🚀",
+  "description": "Threads, async/await, unsafe Rust, and WebAssembly.",
+  "order": "4",
+  "uuid": "beb6da06-fd81-45b4-817a-e3cdf73423eb"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Java & Enterprise Ecosystem",
+  "icon": "☕",
+  "description": "From the JVM to microservices with Spring Boot.",
+  "order": "3",
+  "uuid": "96619adb-9bb7-46bf-81d7-e10ce0d64a47"
+}

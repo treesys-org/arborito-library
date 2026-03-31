@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Control Avanzado del Sistema",
+  "icon": "⚙️",
+  "description": "Systemd, compilación del kernel y gestión profesional de discos.",
+  "order": "1",
+  "uuid": "53b5816e-4895-47d5-9df4-03d2c2756d5a"
+}

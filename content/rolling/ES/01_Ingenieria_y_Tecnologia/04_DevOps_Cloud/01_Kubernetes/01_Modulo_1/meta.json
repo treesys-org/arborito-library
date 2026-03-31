@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Arquitectura y Conceptos",
+  "icon": "🏗️",
+  "description": "De los contenedores a la orquestación, y arquitectura de K8s.",
+  "order": "1",
+  "uuid": "b23d1d27-af8a-45b5-bc65-930caf05fed2"
+}

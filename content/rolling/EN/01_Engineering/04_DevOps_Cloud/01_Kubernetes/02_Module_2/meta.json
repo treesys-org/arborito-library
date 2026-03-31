@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Workloads and Scheduling",
+  "icon": "⚙️",
+  "description": "Deployments, Services, and how Kubernetes decides where to run your Pods.",
+  "order": "2",
+  "uuid": "af0767dc-6310-41d4-80b6-61d6d186bd08"
+}

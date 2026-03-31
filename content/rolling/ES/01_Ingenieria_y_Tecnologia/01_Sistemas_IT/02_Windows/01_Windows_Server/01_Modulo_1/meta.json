@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Infraestructura Base",
+  "icon": "🏗️",
+  "description": "Instalación, configuración inicial y virtualización con Hyper-V.",
+  "order": "1",
+  "uuid": "14787af5-7782-403d-8efb-62b8ff987e3a"
+}

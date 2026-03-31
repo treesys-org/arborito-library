@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 4: Infraestructura como Código (DSC)",
+  "icon": "🏗️",
+  "description": "Desired State Configuration para una gestión declarativa.",
+  "order": "4",
+  "uuid": "16f5604a-d39a-4482-b733-05bf2de7944b"
+}

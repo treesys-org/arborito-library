@@ -1,0 +1,7 @@
+{
+  "name": "Windows Ecosystem",
+  "icon": "🪟",
+  "description": "Windows Server, Active Directory, and PowerShell.",
+  "order": "2",
+  "uuid": "2ea21381-9c5b-4e93-9c37-72da10cf0e2c"
+}

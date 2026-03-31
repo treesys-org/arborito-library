@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Fundamentos de Rust",
+  "icon": "📚",
+  "description": "Variables, tipos, flujo de control y el sistema de Ownership.",
+  "order": "1",
+  "uuid": "244daa57-4246-408a-96e2-f5bff1972717"
+}

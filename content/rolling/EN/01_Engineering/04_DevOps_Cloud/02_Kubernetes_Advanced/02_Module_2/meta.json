@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Scheduling and Lifecycle",
+  "icon": "🔄",
+  "description": "Taints, tolerations, init containers, and advanced patterns.",
+  "order": "2",
+  "uuid": "c2f3b1c3-9bcd-40b4-8c20-f1d2cfd357af"
+}

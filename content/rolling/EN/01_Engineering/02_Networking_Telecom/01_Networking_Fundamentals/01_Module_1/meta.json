@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Network Fundamentals",
+  "icon": "📚",
+  "description": "OSI/TCP-IP models, cabling, Ethernet, and IP addressing.",
+  "order": "1",
+  "uuid": "01643b16-ab02-46c9-89b6-77db466d914b"
+}

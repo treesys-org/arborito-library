@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Fundamentos de Redes",
+  "icon": "📚",
+  "description": "Modelos OSI/TCP-IP, cableado, Ethernet y direccionamiento IP.",
+  "order": "1",
+  "uuid": "48155f0e-3f9b-48d0-b368-08322e8478da"
+}

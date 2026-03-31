@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Architecture and Concepts",
+  "icon": "🏗️",
+  "description": "From containers to orchestration, and K8s architecture.",
+  "order": "1",
+  "uuid": "d9bbca66-313b-4584-8b73-de46debcc8b5"
+}

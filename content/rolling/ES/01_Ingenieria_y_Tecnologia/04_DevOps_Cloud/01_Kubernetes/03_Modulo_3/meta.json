@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Almacenamiento y Redes",
+  "icon": "💾",
+  "description": "Volúmenes persistentes, Ingress y políticas de red.",
+  "order": "3",
+  "uuid": "09d11784-253a-49ee-a632-8acd18ec9a55"
+}

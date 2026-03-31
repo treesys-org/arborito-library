@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Storage and Networking",
+  "icon": "💾",
+  "description": "Persistent volumes, Ingress, and network policies.",
+  "order": "3",
+  "uuid": "6d904a03-2c22-41b0-88a5-91b7d60e62bc"
+}

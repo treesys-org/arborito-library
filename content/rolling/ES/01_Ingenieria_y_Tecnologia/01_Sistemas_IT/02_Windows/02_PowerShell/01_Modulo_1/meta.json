@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: La Shell de PowerShell",
+  "icon": "📟",
+  "description": "Cmdlets, el pipeline de objetos y el sistema de ayuda.",
+  "order": "1",
+  "uuid": "fe166877-af5e-44e2-ab8e-16347ffedd67"
+}

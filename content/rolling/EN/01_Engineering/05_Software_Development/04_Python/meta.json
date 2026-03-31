@@ -1,0 +1,7 @@
+{
+  "name": "Python for Engineers",
+  "icon": "🐍",
+  "description": "From basic syntax to data analysis and backend with FastAPI.",
+  "order": "4",
+  "uuid": "bd8a1f17-4f99-4e9d-9692-bc952fd03d59"
+}

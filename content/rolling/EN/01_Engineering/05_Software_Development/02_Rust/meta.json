@@ -1,0 +1,7 @@
+{
+  "name": "Rust: High Performance & Safety",
+  "icon": "🦀",
+  "description": "Performance, memory safety, and fearless concurrency.",
+  "order": "2",
+  "uuid": "06986d49-f94b-461b-8515-146d6b898442"
+}

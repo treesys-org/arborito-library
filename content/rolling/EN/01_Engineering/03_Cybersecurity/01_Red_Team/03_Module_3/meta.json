@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Post-Exploitation",
+  "icon": "🕹️",
+  "description": "What to do once you have gained access to a system.",
+  "order": "3",
+  "uuid": "1efc57d8-c4da-432a-9cd8-b3aa606c485c"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 4: Concurrencia y Sistemas",
+  "icon": "🚀",
+  "description": "Threads, async/await, unsafe Rust y WebAssembly.",
+  "order": "4",
+  "uuid": "e13629b8-b14a-4490-ab07-3dacaba44eca"
+}

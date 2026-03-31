@@ -1,0 +1,7 @@
+{
+  "name": "Offensive Operations (Red Team)",
+  "icon": "🔴",
+  "description": "Simulating attacks to find and fix vulnerabilities.",
+  "order": "1",
+  "uuid": "2024bdeb-31df-48cc-a42d-8328fc0d9551"
+}

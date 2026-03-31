@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Teoría de Sistemas Operativos",
+  "icon": "💾",
+  "description": "Procesos, concurrencia, gestión de memoria y sistemas de archivos.",
+  "order": "1",
+  "uuid": "efa95a77-0bd6-418d-9736-d46128868b24"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Configuration Management (Ansible)",
+  "icon": "🔧",
+  "description": "Configuring the software inside your servers.",
+  "order": "2",
+  "uuid": "07d6b511-a594-4c35-9f67-52f4a796cce8"
+}

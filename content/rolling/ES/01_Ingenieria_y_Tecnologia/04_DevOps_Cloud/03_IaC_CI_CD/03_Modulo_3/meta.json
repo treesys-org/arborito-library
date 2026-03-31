@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Pipelines de CI/CD",
+  "icon": "🚀",
+  "description": "Automatizando la construcción, prueba y despliegue de tu código.",
+  "order": "3",
+  "uuid": "e644e0e8-84cd-46a5-9b3e-026c7e131fbf"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 2: Estructuras y Datos",
+  "icon": "🏗️",
+  "description": "Structs, enums, pattern matching y manejo de errores.",
+  "order": "2",
+  "uuid": "ddf885d2-0670-4381-a8b0-29e17796d02b"
+}

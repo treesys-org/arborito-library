@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Servicios de Red de Windows",
+  "icon": "🔌",
+  "description": "DNS, DHCP, y servicios de archivos e impresión.",
+  "order": "3",
+  "uuid": "a48bfa87-1968-437e-93fb-1e4090f072af"
+}

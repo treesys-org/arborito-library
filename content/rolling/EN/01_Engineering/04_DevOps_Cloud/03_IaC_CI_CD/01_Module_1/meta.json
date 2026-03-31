@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Terraform and IaC",
+  "icon": "🏗️",
+  "description": "Defining and provisioning infrastructure with code.",
+  "order": "1",
+  "uuid": "44ca92d2-020c-4cc6-b14a-b74f01e3106b"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Seguridad y Hardening",
+  "icon": "🛡️",
+  "description": "Firewalls, SELinux, certificados y auditoría del sistema.",
+  "order": "3",
+  "uuid": "a75c6e98-2a19-4e93-95eb-5ea61ce2e795"
+}

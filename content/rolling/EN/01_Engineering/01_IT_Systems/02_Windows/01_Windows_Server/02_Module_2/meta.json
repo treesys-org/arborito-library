@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Active Directory Domain Services (AD DS)",
+  "icon": "🌳",
+  "description": "The heart of identity and resource management in Windows.",
+  "order": "2",
+  "uuid": "89212a70-3ce3-43fd-882f-79f856ba4fa9"
+}

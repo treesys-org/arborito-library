@@ -1,0 +1,7 @@
+{
+  "name": "Python para Ingenieros",
+  "icon": "🐍",
+  "description": "Desde la sintaxis básica hasta el análisis de datos y backend con FastAPI.",
+  "order": "4",
+  "uuid": "1b082718-a6ef-4610-9be4-72c323a0859e"
+}

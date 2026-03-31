@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Incident Response",
+  "icon": "🔥",
+  "description": "The plan of action when an attack is detected.",
+  "order": "2",
+  "uuid": "b87c1305-23a9-487c-a699-18e018fadfd9"
+}

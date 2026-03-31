@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Routing and WAN",
+  "icon": "🌐",
+  "description": "Static routing, OSPF, FHRP, and NAT.",
+  "order": "3",
+  "uuid": "db7292e6-06dd-47df-8ae5-be96aba27a1e"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Computer Architecture",
+  "icon": "🖥️",
+  "description": "Logic gates, instruction sets, CPU pipelining, and memory hierarchy.",
+  "order": "2",
+  "uuid": "5850eafc-c55c-4148-950f-34dc5ee89c25"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Infrastructure as Code & CI/CD",
+  "icon": "🏗️",
+  "description": "Terraform, Ansible, Git, and continuous deployment pipelines.",
+  "order": "3",
+  "uuid": "96587a88-1930-4f99-a8b7-d1cef3ec47a0"
+}

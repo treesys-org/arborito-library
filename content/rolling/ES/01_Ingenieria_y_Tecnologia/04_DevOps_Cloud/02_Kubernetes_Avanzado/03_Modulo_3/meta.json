@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Seguridad Profunda",
+  "icon": "🔒",
+  "description": "Certificados TLS, KubeConfig, Security Contexts y registros privados.",
+  "order": "3",
+  "uuid": "637ce682-43a9-4d93-8f3f-ea822776f9f9"
+}

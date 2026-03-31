@@ -1,0 +1,7 @@
+{
+  "name": "Module 1: Operating Systems Theory",
+  "icon": "💾",
+  "description": "Processes, concurrency, memory management, and file systems.",
+  "order": "1",
+  "uuid": "501ae8a8-7d5e-402f-acf9-b3020ee3137b"
+}

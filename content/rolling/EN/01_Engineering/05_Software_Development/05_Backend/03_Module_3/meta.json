@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Architecture and Scalability",
+  "icon": "🏗️",
+  "description": "Microservices, load balancing, and event-driven architectures.",
+  "order": "3",
+  "uuid": "debce763-6649-4ac9-af9a-c8eeaab12468"
+}

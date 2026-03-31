@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 3: Datos y Ciencia",
+  "icon": "📊",
+  "description": "NumPy, Pandas, Matplotlib y el ecosistema científico de Python.",
+  "order": "3",
+  "uuid": "3a5912fd-86ef-4634-b62c-80714b1df494"
+}

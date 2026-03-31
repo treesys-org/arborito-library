@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: API Design",
+  "icon": "🔌",
+  "description": "REST, GraphQL, WebSockets, and authentication.",
+  "order": "2",
+  "uuid": "13a774d4-a1bd-4b45-a3e3-25bb89c6d7e7"
+}

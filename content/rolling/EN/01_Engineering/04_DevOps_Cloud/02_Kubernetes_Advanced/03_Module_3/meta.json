@@ -1,0 +1,7 @@
+{
+  "name": "Module 3: Deep Security",
+  "icon": "🔒",
+  "description": "TLS certificates, KubeConfig, Security Contexts, and private registries.",
+  "order": "3",
+  "uuid": "1c8c5683-f4bb-4cee-961b-0dadf52c69a1"
+}

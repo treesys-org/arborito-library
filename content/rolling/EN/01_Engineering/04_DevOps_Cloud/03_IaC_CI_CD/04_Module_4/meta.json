@@ -1,0 +1,7 @@
+{
+  "name": "Module 4: Observability and SRE",
+  "icon": "👀",
+  "description": "Metrics, logs, and traces to understand your systems in production.",
+  "order": "4",
+  "uuid": "07277f1c-f5bf-44b8-9bba-698cbb7d40ca"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Module 2: Corporate Network Services",
+  "icon": "🏢",
+  "description": "Configuration of web, DNS, mail, and database servers.",
+  "order": "2",
+  "uuid": "fc7682eb-fc87-4992-80d5-68df89a0e7af"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 1: Fundamentos de C",
+  "icon": "📚",
+  "description": "Compilación, tipos primitivos, flujo de control y structs.",
+  "order": "1",
+  "uuid": "3d001f71-d774-4dc6-92e3-bc3118479047"
+}

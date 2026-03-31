@@ -1,0 +1,7 @@
+{
+  "name": "Módulo 4: Observabilidad y SRE",
+  "icon": "👀",
+  "description": "Métricas, logs y trazas para entender tus sistemas en producción.",
+  "order": "4",
+  "uuid": "a9396fa6-9bed-4cbc-b813-c8343b6a4492"
+}
